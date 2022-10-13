@@ -2,7 +2,7 @@
 
     session_start();
 
-    $base = 'http://localhost/base';
+    $base = 'http://localhost/gomoney';
 
     date_default_timezone_set('America/Sao_Paulo');
 
