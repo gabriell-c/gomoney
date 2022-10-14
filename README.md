@@ -12,10 +12,7 @@
 
 <h2 align="center">📖Sobre</h2>
 
-<p align="left">Esse projeto é um tipo de sistema de controle financeiro e foi feito para estudos de PHP com MySQL usando o CRUD, ele consiste em um página principal que verifica primeiramente se vc esta logado ou não,
-se não estiver ela manda vc para a página de login, e se vc não tem uma conta, basta criar na pagina de cadastro, ou se vc esqueceu a senha, basta criar uma nova na página de troca de senha
-, estando logado e na pagina principal vc consegue adicionar um no item com informações como o titulo, tipo (se é entrada ou saída), data e valo. Consegue também editar ou remover o item em especifico,
-se presicar trocar alguma informação pessoal basta ir na página de configurações e fazer tais modificações, e se quiser sair basta abrir o menu e clickar em "Sair", que ele irá fazer o sistema de logout.</p>
+<p align="left">Esse projeto é um tipo de sistema de controle financeiro e foi feito para estudos de PHP com MySQL usando o CRUD, ele consiste em uma página principal que verifica primeiramente se você esta logado ou não, se não estiver ela manda você para a página de login, e se você não tem uma conta, basta criar na pagina de cadastro, ou se você esqueceu a senha, basta criar uma nova na página de troca de senha, estando logado e na pagina principal você consegue adicionar um item com informações como o título, tipo (se é entrada ou saída), data e valo. Consegue também editar ou remover o item em específico, se precisar trocar alguma informação pessoal basta ir à página de configurações e fazer tais modificações, e se quiser sair basta abrir o menu e clicar em “Sair”, que ele irá fazer o sistema de logout.</p>
 
 ---
 
