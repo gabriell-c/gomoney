@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center"><img width="40" src="./public/imgs/logo_icon.png" /> Trayt</h1>
+<h1 align="center"><img width="40" src="./public/imgs/logo_icon.png" /> GoMoney</h1>
 
 <h3 align="center">✔ STATUS: Concluído ✔</h3>
 
