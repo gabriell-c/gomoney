@@ -1,11 +1,4 @@
--- phpMyAdmin SQL Dump
--- version 5.2.1
--- https://www.phpmyadmin.net/
---
--- Host: localhost:3306
--- Tempo de geração: 15/05/2024 às 19:02
--- Versão do servidor: 10.5.20-MariaDB
--- Versão do PHP: 7.3.33
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -18,7 +11,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Banco de dados: `id20997329_gomoney`
+-- Banco de dados: `gomoney`
 --
 
 -- --------------------------------------------------------
